@@ -9,15 +9,12 @@
 <?import javafx.scene.layout.VBox?>
 <?import javafx.scene.text.Font?>
 
-<VBox prefHeight="430.0" prefWidth="447.0" xmlns="http://javafx.com/javafx/16" xmlns:fx="http://javafx.com/fxml/1" fx:controller="gui.DepartmentListController">
+<VBox prefHeight="388.0" prefWidth="440.0" xmlns="http://javafx.com/javafx/10.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="gui.DepartmentListController">
    <children>
       <Label text="Department Registration">
          <font>
             <Font name="System Bold" size="14.0" />
          </font>
-         <VBox.margin>
-            <Insets />
-         </VBox.margin>
          <padding>
             <Insets left="5.0" top="5.0" />
          </padding>
